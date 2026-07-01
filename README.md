@@ -105,13 +105,13 @@ cmake --preset macos-release    # macOS
 
 **Step 2 — Compile** (run this for every code change):
 ```powershell
+
 cmake --build --preset win-release      # Windows
 cmake --build --preset linux-release    # Linux
 cmake --build --preset macos-release    # macOS
 
 
----
-## License
+#License
 
 
 > ⚠️ **Cloning, forking, or modifying this repository does NOT grant commercial rights.**
