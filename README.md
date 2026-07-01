@@ -110,8 +110,9 @@ cmake --build --preset linux-release    # Linux
 cmake --build --preset macos-release    # macOS
 
 
-
+---
 ## License
+
 
 > ⚠️ **Cloning, forking, or modifying this repository does NOT grant commercial rights.**
 > A paid Commercial License is required for **any** business or internal company use — including forks that remove or replace APIs with your own data sources. See **[Commercial License](https://github.com/QuantPilot/QuantPilot/blob/main/docs/COMMERCIAL_LICENSE.md)** for binding terms.
