@@ -1,4 +1,4 @@
-# QuantPilot
+# Citadel OS
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 [![Qt6](https://img.shields.io/badge/Qt-6-41CD52?logo=qt&logoColor=white)](https://www.qt.io/)
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 
-### **Your AI Copilot for Quantitative Finance.**
+### **Your AI Copilot for Quantitative Finance ( Citadel OS)**
 
 State-of-the-art financial intelligence platform powered by an autonomous LangGraph trading agent framework, a Gemini-powered Natural Language Copilot, and unlimited data connectivity.
 
