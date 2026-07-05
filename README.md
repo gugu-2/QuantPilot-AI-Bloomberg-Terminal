@@ -1,6 +1,5 @@
 # Citadel OS
 
-
 <div align="center">
 
 [![License: AGPL-3.0](https://img.shields.io/badge/license-AGPL--3.0-C06524)](https://github.com/QuantPilot/QuantPilot/blob/main/LICENSE)
