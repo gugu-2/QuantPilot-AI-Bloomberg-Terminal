@@ -119,7 +119,6 @@ cmake --build --preset macos-release    # macOS
 > A paid Commercial License is required for **any** business or internal company use — including forks that remove or replace APIs with your own data sources. See **[Commercial License](https://github.com/QuantPilot/QuantPilot/blob/main/docs/COMMERCIAL_LICENSE.md)** for binding terms.
 
 **Dual Licensed: AGPL-3.0 (Open Source) + Commercial License**
-
 | | |
 |---|---|
 | ✅ **Free under AGPL-3.0** | Personal use · Individual learning · Academic research · Open-source contributions to this repository |
